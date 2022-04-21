@@ -1,5 +1,4 @@
 import MainView from "./main-view/MainView.component";
-import Test from "./Test";
 import "./App.css";
 
 function App() {
