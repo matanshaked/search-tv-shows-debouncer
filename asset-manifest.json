@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/search-tv-shows-debouncer/static/css/main.d9812deb.css",
-    "main.js": "/search-tv-shows-debouncer/static/js/main.79ba9ad6.js",
+    "main.css": "/search-tv-shows-debouncer/static/css/main.9ffcb804.css",
+    "main.js": "/search-tv-shows-debouncer/static/js/main.2d61f548.js",
     "static/js/787.04f31ee4.chunk.js": "/search-tv-shows-debouncer/static/js/787.04f31ee4.chunk.js",
     "index.html": "/search-tv-shows-debouncer/index.html",
-    "main.d9812deb.css.map": "/search-tv-shows-debouncer/static/css/main.d9812deb.css.map",
-    "main.79ba9ad6.js.map": "/search-tv-shows-debouncer/static/js/main.79ba9ad6.js.map",
+    "main.9ffcb804.css.map": "/search-tv-shows-debouncer/static/css/main.9ffcb804.css.map",
+    "main.2d61f548.js.map": "/search-tv-shows-debouncer/static/js/main.2d61f548.js.map",
     "787.04f31ee4.chunk.js.map": "/search-tv-shows-debouncer/static/js/787.04f31ee4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9812deb.css",
-    "static/js/main.79ba9ad6.js"
+    "static/css/main.9ffcb804.css",
+    "static/js/main.2d61f548.js"
   ]
 }
